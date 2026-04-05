@@ -1,9 +1,5 @@
 # Ex.No.3-Scenario-Based Report Development Utilizing Diverse Prompting Techniques for the the following Prompt Engineering types with examples - Straightforward Prompts - Tabular Format Prompting - Missing Word Prompting - Preceding Question Prompting.
 
-# DATE:                                                                            
-
-# REGISTER NUMBER : 
-
 # Aim: To write the prompts for these following prompt types and evaluate that using any one method 
 
 1. Straightforward Prompts
@@ -44,6 +40,7 @@ Procedure:
 
 
 # OUTPUT: 
+[exp3.pdf](https://github.com/user-attachments/files/25570176/exp3.pdf)
 
 
 # RESULT: The various types of Prompts are executed successfully with generated the report.
